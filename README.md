@@ -45,5 +45,3 @@ For a comprehensive understanding of the project, its motivations, literature re
 #### Conclusion:
 
 This repository aims to provide a holistic view of the project's journey, demonstrating proficiency in all stages of a Machine Learning project, from data collection, cleaning, and processing to deep learning and model evaluations.
-
-Feedback, suggestions, and contributions are warmly welcomed!
